@@ -1,2 +1,6 @@
 # Hello-World
-Just another repository
+
+Hi people,
+
+Jagriti here. I like Python and R.
+
